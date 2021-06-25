@@ -1,6 +1,7 @@
 123
 
 456
-789.
+789
 Add line
- commit textnew branch line
+commit text
+new branch line
